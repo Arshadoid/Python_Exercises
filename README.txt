@@ -1,1 +1,0 @@
-These are the solutions for Python exercises from the book "Python Programming: An Introduction to Computer Science" by John M. Zelle.
