@@ -1,0 +1,8 @@
+Student count in this list: 7
+Mehtiyev  95
+Fritz  80
+Bush  84
+Markov  75
+Shah  79
+Rodrigez  67
+Jackman  87

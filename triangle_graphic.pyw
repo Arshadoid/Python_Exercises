@@ -33,4 +33,6 @@ def main():
     message.setText( " Click anywhere to quit. " )
     win.getMouse()
     win.close()
-main()
+
+if __name__=="__main__":
+    main()

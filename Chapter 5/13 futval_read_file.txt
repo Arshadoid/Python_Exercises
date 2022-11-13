@@ -1,0 +1,3 @@
+Enter the initial principal: 20000
+Enter the annual interest rate: -0.26
+Enter the number of years: 2
